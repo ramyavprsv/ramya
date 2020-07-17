@@ -1,0 +1,14 @@
+h1,p,li{
+  color:green;
+}
+.circle-crop{
+  border-radius:50%;
+  height:50%;
+  width:50%;
+}
+img{
+  width:10%
+}
+body{
+  background:pink;
+}

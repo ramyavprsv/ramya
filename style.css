@@ -1,0 +1,11 @@
+/* EXTERNAL CSS  */
+hr{
+  border-style: dotted  none none;
+  border-width: 5px;
+  color:yellow;
+  width:10%;
+  height:10px;
+}
+p{
+  color:brown;
+}
